@@ -152,7 +152,7 @@ Then run the script again to see predictions.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/Sheraz-ahmed7)
 
 ---
 
